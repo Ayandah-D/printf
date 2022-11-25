@@ -26,4 +26,4 @@
 
 ## Acknowledgments
 - ALX Community
-- Hat tip to anyone whose code was used
+
